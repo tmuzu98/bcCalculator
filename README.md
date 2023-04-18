@@ -8,14 +8,14 @@ Estimate time spent: 15-20 hours
 # a description of how you tested your code
 Here is a list of tests that we performed to ensure the code works correctly for various cases, including negative numbers, arithmetic operations, comparisons, logical operations, and comments
 1. Basic Arithmetic Operations
-x = 3\n
-y = 4\n
-print x + y\n
-print x - y\n
-print x * y\n
-print x / y\n
-print x % y\n
-print x ^ y\n
+x = 3
+y = 4
+print x + y
+print x - y
+print x * y
+print x / y
+print x % y
+print x ^ y
 2. Using negative numbers:
 x = -3
 y = 4
