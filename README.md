@@ -73,7 +73,7 @@ y = 6 /* This is a
 print x + y
 
 # any bugs or issues you could not resolve
-
+No Issues.
 
 
 # an example of a difficult issue or bug and how you resolved
